@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1sXobi+Sv8Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\royer\\KafkaBasicApp\\KafkaBasicApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\royer\\.nuget\\packages\\confluent.kafka\\2.6.0\\confluent.kafka.2.6.0.nupkg.sha512",
+    "C:\\Users\\royer\\.nuget\\packages\\librdkafka.redist\\2.6.0\\librdkafka.redist.2.6.0.nupkg.sha512",
+    "C:\\Users\\royer\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
